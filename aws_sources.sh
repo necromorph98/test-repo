@@ -51,3 +51,5 @@ deb http://security.ubuntu.com/ubuntu jammy-security universe
 deb http://security.ubuntu.com/ubuntu jammy-security multiverse
 # deb-src http://security.ubuntu.com/ubuntu jammy-security multiverse
 AWS_SOURCES
+
+apt update
